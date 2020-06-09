@@ -9,4 +9,5 @@ if 1080p 30sec, 8mb
 1080p, took 3931s, 1784mb, new 364mb
 
 APPROX  1.5hours, for 2gb file, 360p, 1/5 times size
+
 ```````  3hours  ```````````````````````````````````
