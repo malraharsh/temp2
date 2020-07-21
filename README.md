@@ -11,3 +11,5 @@ if 1080p 30sec, 8mb
 APPROX  1.5hours, for 2gb file, 360p, 1/5 times size
 
 ```````  3hours  ```````````````````````````````````
+
+! [ ] (download.jpg)
