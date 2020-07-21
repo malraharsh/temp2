@@ -12,4 +12,8 @@ APPROX  1.5hours, for 2gb file, 360p, 1/5 times size
 
 ```````  3hours  ```````````````````````````````````
 
-! [ ] (download.jpg)
+![Screenshot](download.jpg)
+
+![Screenshot](https://github.com/malraharsh/temp2/blob/master/download.jpg?raw=true)
+
+![Screenshot](https://github.com/malraharsh/temp2/blob/master/download.jpg)
