@@ -2,10 +2,11 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/harshm15)](https://twitter.com/harshm15) [![Linkedin Badge](https://img.shields.io/badge/-@Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-m-64b2a592/)](https://www.linkedin.com/in/harsh-m-64b2a592/) [![Medium Badge](https://img.shields.io/badge/-@MediumBlogs-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mediumblogs/)](https://medium.com/@harshmalra)
+[![Twitter Badge](https://img.shields.io/badge/-@Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/harshm15)](https://twitter.com/harshm15) [![Linkedin Badge](https://img.shields.io/badge/-@Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-m-64b2a592/)](https://www.linkedin.com/in/harsh-m-64b2a592/) [![Medium Badge](https://img.shields.io/badge/-@Blogs-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mediumblogs/)](https://medium.com/@harshmalra)
 [![Gmail Badge](https://img.shields.io/badge/-@MailMe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malraharshiota@gmail.com)](mailto:malraharshiota@gmail.com)
 
-I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University,Alniya 🏫.I love to explore and learn about new things.
+I am Harsh Malra 😃. I urrently doing my B.Tech from Career Point University,Alniya 🏫.I love to learn things, explore creative ideas, and apply them.
+
 ## 👯 Communities
 * Microsoft Student Partner
 * Deeplearning.ai event ambassador
@@ -15,23 +16,16 @@ I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B
 * Internshala Student Partner-16
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **Flask,Django**
-- Making for **Relational Database Management Systems**
-- Robust full-stack system design implementation
-- Desktop application development using **Flutter**(Still learning)
-- Mobile application development using **Flutter and Kotlin**
-- Creating scalable cloud architecture using **AWS Cloud**
-- Solving Data structure and algorithm questions in **Java and Python**
+- Programming with **Python**
+- Machine Learning with **Keras, Scikit-learn**
+- Deep Learning **Tensorflow, Pytorch**
+- Web Apps **Streamlit**
+- Competitive Programming with **C++ and Python**
 ## Hello World!! 🤔
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Harsh Blog](https://harshblog.xyz)
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html)
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
-- ⚡ Fun fact: Internet users blink less than usual.
+- 💬 I love to read.
+- 📫 Read my blogs: [Harsh Blog](https://medium.com/@harshmalra)
+- 🎯 Portfolio site: [Portfolio]()
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+![Harsh Malra Github Stats](https://github-readme-stats.vercel.app/api?username=malraharsh&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
-
-```⭐️ From [harshkumarkhatri](https://github.com/harshkumarkhatri)```
+![visitors](https://visitor-badge.glitch.me/badge?page_id=malraharsh)
