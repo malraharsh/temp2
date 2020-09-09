@@ -26,15 +26,12 @@ Talk to me about
 - 📫 Read my blogs: [My Blogs](https://medium.com/@harshmalra)
 - 🎯 Portfolio site: [Portfolio]()
 
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+---
 
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
-  ![Harsh Malra Github Stats](https://github-readme-stats.vercel.app/api?username=malraharsh&hide=["issues"]&show_icons=true)
-</p>
+<details open> 
+ <summary><b>Checkout my latest Medium articles</b> :bookmark_tabs:</summary>
+ 
+  <a target="_blank" href="https://medium.com/@harshmalra/playing-gta-v-using-hand-localization-65305a45d95f?source=friends_link&sk=9b94eb7bcc3831ce867e62c5fd4bdbc8"><img src="https://miro.medium.com/max/863/1*So43o4FBa4v6BdUXx-Z45w.gif" alt="Recent Article 0"></a>
 
 </details>
 
