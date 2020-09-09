@@ -23,8 +23,22 @@ Talk to me about
 - Competitive Programming with **C++ and Python**
 ## Hello World!! 🤔
 - 💬 I love to read.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/@harshmalra)
+- 📫 Read my blogs: [My Blogs](https://medium.com/@harshmalra)
 - 🎯 Portfolio site: [Portfolio]()
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
+  ![Harsh Malra Github Stats](https://github-readme-stats.vercel.app/api?username=malraharsh&hide=["issues"]&show_icons=true)
+</p>
+
+</details>
+
+
 
 ![Harsh Malra Github Stats](https://github-readme-stats.vercel.app/api?username=malraharsh&hide=["issues"]&show_icons=true)
 
